@@ -4,7 +4,7 @@
 #include <strings.h>
 #include <unistd.h>
 #include "csapp.h"
-
+//第一版答案
 /* Recommended max cache and object sizes (unused in the basic version) */
 #define MAX_CACHE_SIZE 1049000
 #define MAX_OBJECT_SIZE 102400
