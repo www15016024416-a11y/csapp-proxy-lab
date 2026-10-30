@@ -1,0 +1,19 @@
+# 编译产物
+*.o
+*.d
+
+# 可执行文件
+proxy
+tiny/tiny
+tiny/cgi-bin/adder
+tiny/cgi-bin/adder.o
+tiny/csapp.o
+
+# 缓存目录(编译时生成)
+.proxy/
+
+# 编辑器/系统文件
+.vscode/
+*.swp
+*~
+.DS_Store
